@@ -25,6 +25,6 @@ You will deliver your slide deck as 6-7 minute in-class presentation. The time l
 
 Add the URL to your Google Slides below:
 
-<div class="button-input-unit button-input-unit--size-xsmall"><input class="button-input-unit__input" placeholder="Paste URL here" type="text"><div class="button-input-unit__button button--color-blue"><svg class="util--abs-center-both" width="12" height="12" fill="currentColor"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/sprite-6289e5b7cc3abb0d064669576774f997441c8be14440ad62dc0435b886a8e91f.svg#svg__icon--chevron--right"></use></svg></div></div>
+<div class="button-input-unit button-input-unit--size-xsmall"><input class="button-input-unit__input" style="margin-top: 0px" placeholder="Paste URL here" type="text"><div class="button-input-unit__button button--color-blue"><svg class="util--abs-center-both" width="12" height="12" fill="currentColor"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/sprite-6289e5b7cc3abb0d064669576774f997441c8be14440ad62dc0435b886a8e91f.svg#svg__icon--chevron--right"></use></svg></div></div>
 
 
